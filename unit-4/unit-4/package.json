@@ -1,14 +1,12 @@
 {
-  "name": "recipe",
+  "name": "unit-4",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@csstools/normalize.css": "^12.1.1",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^13.5.0",
-    "prop-types": "^15.8.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-scripts": "5.0.1",
